@@ -32,4 +32,16 @@ Gaherwar-Electronic/
 ├── README.md # Project documentation                                                        
 
 ------
+# ⚙️ How to Run the Project
+
+1. Download or clone this repository
+   ```bash
+   git clone https://github.com/your-username/gaherwar-electronic.git
+Open the project folder
+
+Double-click index.html
+
+View the website in your browser 🌐
+
+-----
 
