@@ -36,7 +36,7 @@ Gaherwar-Electronic/
 
 1. Download or clone this repository
    ```bash
-   git clone https://github.com/your-username/gaherwar-electronic.git
+   git clone https:https://github.com/nehalgaherwar/mobile-shop.git
 Open the project folder
 
 Double-click index.html
