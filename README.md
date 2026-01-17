@@ -45,3 +45,21 @@ View the website in your browser 🌐
 
 -----
 
+# 🔮 Future Improvements
+
+🧾 Product details page
+
+💳 Checkout system
+
+📦 Backend integration
+
+👤 User login & signup
+
+⭐ Product ratings and reviews
+
+------
+
+# 👨‍💻 Author
+
+Gaherwar Electronic
+Mobile Shop Website Project
