@@ -24,4 +24,12 @@ It displays featured mobile phones, includes a search bar, and shows a cart coun
 ---
 
 ## 📁 Project Structure
+Gaherwar-Electronic/                                                            
+│                                                                          
+├── index.html # Main HTML file                                                                                                    
+├── styles.css # CSS styling                                                                                        
+├── script.js # JavaScript logic                                                                                    
+├── README.md # Project documentation                                                        
+
+------
 
